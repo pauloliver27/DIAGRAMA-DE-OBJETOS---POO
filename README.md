@@ -1,4 +1,4 @@
-# DIAGRAMA-DE-OBJETOS---POO
+# DIAGRAMA-DE-OBJETOS e DIAGRAMA-DE-PACOTES --- POO
 Trabalho da Universade Federal do Ceará, Programação Orientada a Objetos, 2024.2, Enegenharia de Telecomunicações
 
 Equipe:
