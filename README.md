@@ -14,4 +14,4 @@ Lucas Passo Gouveia;
 Bruno Lopes Gadelha;
 
 
-OBS: Os slides estão imcompletos pois o GitHub tem limitação de GB para o upload
+OBS: Os slides estão incompletos pois o GitHub tem limitação de GB para o upload
